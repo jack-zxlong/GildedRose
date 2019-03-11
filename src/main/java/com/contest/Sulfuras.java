@@ -11,3 +11,5 @@ public class Sulfuras extends Goods{
 		private void updateQuality(){
 		}
 
+}
+
