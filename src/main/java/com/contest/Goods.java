@@ -3,7 +3,6 @@ package com.contest;
 public class Goods extends Item {
 
     public Goods(String name, int sellIn, int quality){
-			checkQualityThrowException();
 			super(name, sellIn, quality);
 	}
 
